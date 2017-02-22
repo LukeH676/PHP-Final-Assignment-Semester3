@@ -1,0 +1,62 @@
+body
+{
+    background-color:#558C89;
+    color:#D9853B;
+    font-size:medium;
+    font-family:"Arial", "serif";
+}
+
+button {
+    margin-bottom:.75em;
+    height:3em;
+    width:5em;
+    display:block;
+}
+
+.top
+{
+    min-height:1.5em;
+    text-align:center;
+    font-size: xx-large;
+    font-weight:bold;
+}
+.bigpiece
+{
+    background-color: #C0C0C0;
+    height:32em; 	
+    margin-bottom:3%; 
+    margin-left:2%;
+    margin-right:2%;
+}
+.leftpiece
+{ 
+    min-width:25%; 
+    float:left; 
+    margin-left:5em; 
+    margin-right:5em; 
+}
+
+.middlepiece
+{ 
+    min-width:20%; 
+    float:left; 
+    margin-right:5em; 
+}
+
+.rightpiece
+{ 
+    min-width:25%; 
+    float:left; 
+}
+
+
+.bottom
+{
+    clear:both; 
+}
+
+.addspace
+{
+    margin-top:1.5em;
+    margin-bottom:1.5em;
+}
